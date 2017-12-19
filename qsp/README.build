@@ -109,3 +109,13 @@ Note, if you make changes to packages/files within to various Yocto repos, you m
 •     bitbake –c compile <package name>
 •     bitbake core-image-full-cmdline
 
+
+
+
+Commit IDs
+Listed below are Git commit Ids for the Poky and Openembedded repositories that were used during testing:
+
+Poky:  		       1edad1a700af718adc29df05fcfd854c8e67fa10
+Open-Embedded:   b40116cf457b88a2db14b86fda9627fb34d56ae6
+
+
